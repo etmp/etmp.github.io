@@ -10,7 +10,7 @@ labels:
   - Catalogue Design
 summary: I designed a product catalog for the AG Lighting Company
 ---
-<img class="ui big image" src="../images/catalog.png">
+<img class="ui medium image" src="../images/catalog.png">
 
 I designed the aesthetics and layout of the product catalog and parts list for light fixtures sold by the AG Lighting Company.
 
