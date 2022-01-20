@@ -13,7 +13,7 @@ labels:
 summary: I and other students at the LAVA lab developed the Energy Table, an interative data visualization display for energy data.
 ---
 
-<img class="ui medium image" src="../images/heco_hd_ui.png">
+<img class="ui big image" src="../images/heco_hd_ui.png">
 
 The Energy Table shows three ways of moving Hawaiʻi to 100% renewable by 2045, and the tradeoffs that need to be made with respect to land use.
 
