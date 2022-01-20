@@ -1,12 +1,10 @@
-
    
 ---
 layout: project
 type: project
 image: images/sage3.PNG
 title: SAGE 3 Logo
-permalink: projects/SAGE3
-# All dates must be YYYY-MM-DD format!
+permalink: projects/sagelogo
 date: 2021-03-21
 labels:
   - Logo Design
